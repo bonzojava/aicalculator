@@ -1,5 +1,10 @@
 package com.aicalculator.base;
 
+/**
+ * @author bonzojava
+ *
+ */
+
 import com.aicalculator.datatransfer.FileOperator;
 import java.io.IOException;
 import java.util.Scanner;
