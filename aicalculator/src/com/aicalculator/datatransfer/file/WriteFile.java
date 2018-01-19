@@ -1,4 +1,4 @@
-package com.aicalculator.datatransfer;
+package com.aicalculator.datatransfer.file;
 
 import java.io.FileWriter;
 import java.io.PrintWriter;

@@ -1,4 +1,4 @@
-package com.aicalculator.datatransfer;
+package com.aicalculator.datatransfer.file;
 
 import java.io.IOException;
 import java.io.FileReader;
